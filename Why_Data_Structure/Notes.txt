@@ -1,0 +1,29 @@
+=> Data Structure & Arrays in Java
+
+=> Data Structure :-
+
+-> A data structure is a particular way by which we organize, manage and store the data in the computer so that it can be used effectively
+-> Data structure is not a programming langaue like c, c++, java or python. It is a set of algorithms which we can implment in any programming langauges
+-> Operations that we can perform on data :-
+    1. Searching
+    2. Sorting
+    3. Insertion
+    4. Deletion
+    5. Updation
+
+
+-> Advantages :-
+    1. We can process the data easily
+    2. It stores the data very efficiently on the disk
+    3. Data structure is used to develop algorithms
+    4. It stores the data in a secured way
+
+1. Primitive Data Structure (eg Integer, Float, Long, Double etc)
+
+2. Non-Primitive Data Structure
+
+    -> Linear DS (eg String, Files, Arrays, Lists, Stacks, Queues etc)
+    = In Linear DS the data is arranged in a sequential form i.e. one element is connected to only one other element in linear form.
+
+    -> Non-Linear DS (eg Graphs & Trees)
+    = In non-linear DS, one element can connect with 'n' number of elements.
