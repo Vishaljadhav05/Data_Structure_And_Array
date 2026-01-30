@@ -2,8 +2,10 @@
 
 => Data Structure :-
 
--> A data structure is a particular way by which we organize, manage and store the data in the computer so that it can be used effectively
--> Data structure is not a programming langaue like c, c++, java or python. It is a set of algorithms which we can implment in any programming langauges
+-> A data structure is a particular way by which we organize, manage and store the data in the computer so that it can be used effectively.
+-> Data structure is not a programming langaue like c, c++, java or python. It is a set of algorithms 
+    which we can implment in any programming langauges.
+
 -> Operations that we can perform on data :-
     1. Searching
     2. Sorting
@@ -27,3 +29,13 @@
 
     -> Non-Linear DS (eg Graphs & Trees)
     = In non-linear DS, one element can connect with 'n' number of elements.
+    
+======================================================================================================================================
+
+=> Arrays :-
+
+1. Array is a collection of similar type of data (homogeneous data)
+2. Array elements are stored in contigeous memory locations
+3. Array can contain primitive or non-primitive elements
+4. Array is index based data structure, first index position of an array is 0
+5. Array length starts from 1
