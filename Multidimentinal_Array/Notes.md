@@ -20,6 +20,8 @@
 - It stores data in **rows and columns**.
 - Syntax representation: `rows × columns`
 
+<img width="1099" height="503" alt="1 Representation of 2d array" src="https://github.com/user-attachments/assets/0f52049f-72d0-43e0-93c8-cad6c868ffcb" />
+
 ---
 
 ## 🔹 Important Points for 2D Array
@@ -54,6 +56,12 @@ int[][] a = new int[2][3];
 ```java
 a[0][1] = 100; // assigns 100 at row 0, column 1
 ```
+<img width="1101" height="637" alt="2" src="https://github.com/user-attachments/assets/666d8504-0242-4e45-ba6b-047e697bbc82" />
+
+<img width="1109" height="671" alt="3" src="https://github.com/user-attachments/assets/2d12c3a4-fa0b-4831-a9a1-6e4f811a4d6e" />
+
+<img width="1116" height="612" alt="4" src="https://github.com/user-attachments/assets/61f5d89a-a50c-48aa-843e-4cfeee6d1135" />
+
 ## 👉 Declaration, creation, and initialization in a single line:
 
 ```java
@@ -94,7 +102,11 @@ int[][] a = { {10, 20, 30}, {40, 50, 60} };
 ### 🧠 Points to Remember
 
 📦 Arrays are objects in Java
+
 🧠 Stored in Heap Memory
+
 🔢 Index starts from 0
+
 📐 Size is fixed after creation
+
 🧩 2D arrays can be jagged (unequal column size)
