@@ -24,6 +24,8 @@
 
 ## 📊 Diagram Representation (Conceptual):
 
+<img width="1409" height="617" alt="3d image" src="https://github.com/user-attachments/assets/8ab29d20-b0d4-4b33-af33-28d91a2b2e5c" />
+
 
 ## 🔹 Important Points for 2D Array
 
@@ -70,13 +72,10 @@
 ### 🧠 Points to Remember
 
 📦 Arrays are objects in Java
-
 🧠 Stored in Heap Memory
-
 🔢 Index starts from 0
-
 📐 Size is fixed after creation
-
 🧩 3D arrays can be jagged
-
 ❗ At least first dimension size must be specified
+
+-----------------------------------------------------
