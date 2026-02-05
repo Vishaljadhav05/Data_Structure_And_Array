@@ -49,6 +49,8 @@ arr[2] = new int[]{6};
 
 📌 Each row can have **different column sizes**!
 
+<img width="1316" height="563" alt="Diagram" src="https://github.com/user-attachments/assets/3e7ea1ef-cff7-4960-802d-c8ed295097e4" />
+
 ---
 
 ## 🎭 Anonymous Array
